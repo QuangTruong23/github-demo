@@ -11,4 +11,6 @@ print("a = "+ str(a))
 print("b = "+ str(b))
 lost words
 holly crapp i just did it 
+wtf you've done ?
+
 
