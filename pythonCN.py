@@ -7,3 +7,4 @@ elif age <18:
 		print("sieu tre trau")
 else:
 	print ("nguoi lon ")
+	hellnah
