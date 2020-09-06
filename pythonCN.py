@@ -1,4 +1,4 @@
-age = 17;
+age = int (input())
 if age < 10:
 	print ("Con nit ")
 elif age <18:
@@ -7,3 +7,4 @@ elif age <18:
 		print("sieu tre trau")
 else:
 	print ("nguoi lon ")
+	
